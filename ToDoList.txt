@@ -1,0 +1,20 @@
+[o] set max hamster
+[o] set current hamster
+[o] set seed count when hamster find it
+[o] set max frame 60
+[o] digging animation
+[x] hamster active on/off (count=20)
+[x] Store Page
+[x] upgrade 1
+[x] upgrade 2
+[x] upgrade 3
+[x] upgrade 4
+[x] upgrade 5
+[x] upgrade 6
+[x] Dress up Page
+[x] Setting Page
+[x] bgm on/off
+[x] sem on/off
+[-] save system (hamster { state }, valuable_thing { sunflower_seed, golden_sunflower_seed }, setting { bgm, sem }, upgrade { max_population, finding_seed_time, max_feeds, making_feed_time,
+	feed_upgrade_value, auto_feeding })
+[x] insert all resources
