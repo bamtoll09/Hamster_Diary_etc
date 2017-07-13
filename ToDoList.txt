@@ -2,8 +2,8 @@
 [o] set current hamster
 [o] set seed count when hamster find it
 [o] set max frame 60
-[o] digging animation
-[x] hamster active on/off (count=20)
+[x] digging animation
+[o] hamster active on/off (count=20)
 [x] Store Page
 [x] upgrade 1
 [x] upgrade 2
